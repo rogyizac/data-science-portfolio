@@ -25,12 +25,16 @@
 
 ## Internships & Research
 **Open Source Contributor @ Google Summer of Code - LibreHealth.io (_May 2023 - August 2023_)**
+
 [Work Product Report](https://rohanisaac.blogspot.com/2023/08/google-summer-of-code-2023-ai-model.html)
+
 - Developed multiple state of the art computer vision models using PyTorch and integrated to an open source Radiology AI application for medical imaging diagnosis tasks such as multilabel classification, bounding box and segmentation tasks. Estimated to reduce time taken to diagnose by 30%
 - Automated AI model selection by constructing modules with Python Flask and Java Spring Boot, reducing application setup configuration time by 40%
 
 **Research Assistant @ Health Informatics Lab (_September 2022 - Present_)**
+
 [Repo](https://github.com/rogyizac/MD.ai)
+
 - Collaborated with medical researchers to implement and integrate multiple top ranked kaggle computer vision models to a Radiology platform (MD.ai) using PyTorch and Docker, reducing time taken to deploy by more than 50% as part of a research study conducted to understand Radiologists synergy with AI models
 
 ## Publications
@@ -41,8 +45,10 @@ https://doi.org/10.48550/arXiv.2303.10338
 
 ### NHANES Informatics Project
 [Repo](https://github.com/rogyizac/NHANES_informatics_project)
+
 Performed a comparative analyses between survey respondent's demographics, health insurance coverage and hospital utilization levels. We undertook a detailed analysis of survey respondents data on their demographics, health insurance and health care utilization information. We tend to identify deeper insights through data analyses, cluster analysis and through machine learning techniques.
 
 ### Hand Gesture Recognition using CV
 [Repo](https://github.com/rogyizac/Gesture-recognition-using-CV)
+
 Utilized a Single Shot MultiBox Detector (SSD) for real-time recognition of hand gestures such as thumbs up and open palms, mapping these gestures to keyboard functionalities like arrow keys and space bar. Leveraging OpenCV, the system translates detected gestures into corresponding keyboard actions, enabling intuitive gesture-based controls in applications. For example, in web browsing, gestures can mimic scrolling or page navigation, showcasing a seamless integration of computer vision and user interaction.
