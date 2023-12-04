@@ -1,8 +1,10 @@
 # Data Scientist
 
-#### Language Skills: Python, SQL, PySpark, SparkSQL, R, Java (Novice)
-#### Data Science Skills: Time Series Forecasting, Supervised ML, Unsupervised ML (Clustering, PCA), Deep Learning, Natural Language Processing Methods, Large Language Models - (Prompt Engineering, LangChain)
-#### Frameworks & Tools: Sklearn, PyTorch, Tensorflow, PySpark, LangChain, Numpy, Pandas, PowerBI, Linux, Git, Docker, Relational Database, Data Warehousing, Databricks
+**Language Skills:** Python, SQL, PySpark, SparkSQL, R, Java
+
+**Data Science Skills:** Time Series Forecasting, Supervised ML, Unsupervised ML (Clustering, PCA), Deep Learning, Natural Language Processing Methods, Large Language Models - (Prompt Engineering, LangChain)
+
+**Frameworks & Tools:** Sklearn, PyTorch, Tensorflow, PySpark, LangChain, Numpy, Pandas, PowerBI, Linux, Git, Docker, Relational Database, Data Warehousing, Databricks
 
 ## Education
 - M.S., Applied Data Science	| Indiana University Indianapolis, USA (_May 2024_)
@@ -11,14 +13,14 @@
 
 ## Professional Experience
 **Data Scientist @ Accenture AI (_April 2021 - June 2022_)**
-- Accomplished a 10-15% improvement in demand forecast accuracy for a CPG client by **forecasting** algorithms using a Transformers net package and integrated them into **Azure Databricks** Data Science workflow
-- Accelerated decision-making by 70% for a CPG client and enhanced supply chain visibility through the design and development of **Power BI** dashboards and Azure data pipelines. Leveraged **Databricks (PySpark, SparkSQL), DataFactory, Synapse, and Tabular models** for data processing and storage
+- **Accomplished a 10-15% improvement in demand forecast accuracy** for a CPG client by forecasting algorithms using a Transformers net package and integrated them into **Azure Databricks** Data Science workflow
+- **Accelerated decision-making by 70%** for a CPG client and enhanced supply chain visibility through the design and development of **Power BI** dashboards and Azure data pipelines. Leveraged **Databricks (PySpark, SparkSQL), DataFactory, Synapse, and Tabular models** for data processing and storage
 
 **Senior Data Analyst @ Accenture AI (_April 2020 - March 2021_)**
-- Engineered and integrated tree-based ML algorithms for **demand forecasting**, in collaboration with cross-functional teams for a Home Appliances client on **Google Cloud**. Enhanced accuracy by 5% over demand planner levels using Random Forest, XGBoost, CatBoost, and LightGBM
+- Engineered and integrated **tree-based ML algorithms** for **demand forecasting**, in collaboration with cross-functional teams for a Home Appliances client on **Google Cloud**. Enhanced accuracy by 5% over demand planner levels using Random Forest, XGBoost, CatBoost, and LightGBM
 
 **Data Analyst @ Accenture AI (_April 2019 - March 2020_)**
-- Developed and implemented a sourcing optimization solution, utilizing analytics and NLP text similarity matching, boosting production efficiency by 20% for a key CPG client amid capacity challenges
+- Developed and implemented a sourcing optimization solution, utilizing analytics and **NLP text similarity matching**, boosting production efficiency by 20% for a key CPG client amid capacity challenges
 
 **Assistant Systems Engineer @ Accenture AI (_October 2016 - June 2018_)**
 - Resolved technical **Oracle ERP** L1, L2 & L3 service requests for a client in the High Tech Security Solutions
@@ -38,8 +40,7 @@
 - Collaborated with medical researchers to implement and integrate multiple top ranked kaggle **computer vision** models to a Radiology platform (MD.ai) using **PyTorch** and **Docker**, reducing time taken to deploy by more than 50% as part of a research study conducted to understand Radiologists synergy with AI models
 
 ## Publications
-1. Saptarshi Purkayastha, Rohan Isaac, Sharon Anthony, Shikhar Shukla, Elizabeth A. Krupinski, Joshua A. Danish, Judy W. Gichoya. A general-purpose AI assistant embedded in an open-source radiology information system. 
-https://doi.org/10.48550/arXiv.2303.10338
+1. [Saptarshi Purkayastha, Rohan Isaac, Sharon Anthony, Shikhar Shukla, Elizabeth A. Krupinski, Joshua A. Danish, Judy W. Gichoya. A general-purpose AI assistant embedded in an open-source radiology information system.](https://doi.org/10.48550/arXiv.2303.10338)
 
 ## Projects
 
