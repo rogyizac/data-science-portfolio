@@ -12,37 +12,54 @@
 - B.E., Mechanical | Anna University Chennai, India (_June 2016_)
 
 ## Professional Experience
-**Data Scientist @ Accenture AI (_April 2021 - June 2022_)**
-- **Accomplished a 10-15% improvement in demand forecast accuracy** for a CPG client by forecasting algorithms using a Transformers net package and integrated them into **Azure Databricks** Data Science workflow
-- **Accelerated decision-making by 70%** for a CPG client and enhanced supply chain visibility through the design and development of **Power BI** dashboards and Azure data pipelines. Leveraged **Databricks (PySpark, SparkSQL), DataFactory, Synapse, and Tabular models** for data processing and storage
+**Data Scientist Senior @ Accenture AI (_April 2021 - June 2022_)**
+- Accomplished a 10-15% improvement from existing demand forecast accuracy for a CPG client by using a **Transformers net-based package for forecasting** and integrated them into the client’s **Azure Databricks Data Science workflow**.
+- Developed and integrated metrics to track forecast accuracy, demand, supply, and low inventory levels at various channels.
+- Enhanced supply chain visibility through the design and development of manufacturing output metrics using **Power BI dashboards and Azure data pipelines** by bringing manufacturing data together. Leveraged **Databricks (PySpark, SparkSQL), DataFactory, Synapse, and Tabular models** for data processing and storage.
 
-**Senior Data Analyst @ Accenture AI (_April 2020 - March 2021_)**
-- Engineered and integrated **tree-based ML algorithms** for **demand forecasting**, in collaboration with cross-functional teams for a Home Appliances client on **Google Cloud**. Enhanced accuracy by 5% over demand planner levels using Random Forest, XGBoost, CatBoost, and LightGBM
+**Senior Analytics Consultant @ Accenture AI (_April 2020 - March 2021_)**
+- Fine-tuned and integrated **tree-based** and **time series algorithms** for demand forecasting for a Home Appliances client in collaboration with cross-functional teams on **Google Cloud**. Enhanced accuracy by 5% over demand planner levels.
+- Developed, integrated and scheduled **complex BigQuery SQL queries** through **Informatica ETL** pipelines that extract and combine from various large data lakes and builds data marts.
 
-**Data Analyst @ Accenture AI (_April 2019 - March 2020_)**
-- Developed and implemented a sourcing optimization solution, utilizing analytics and **NLP text similarity matching**, boosting production efficiency by 20% for a key CPG client amid capacity challenges
+**Analytics Consultant @ Accenture AI (_April 2019 - March 2020_)**
+- Developed and implemented a sourcing optimization solution, utilizing analytics and **NLP text similarity matching**, boosting production efficiency by 20% for a key CPG client amid capacity challenges.
+- For a Home Appliances Client, developed, and integrated large scale data preprocessing scripts using **sparkSQL, PySpark and Pandas** on Azure that pulls sales order data and ML demand forecast data from data warehouse to build a **supply forecasting solution**.
 
 **Assistant Systems Engineer @ Accenture AI (_October 2016 - June 2018_)**
 - Resolved technical **Oracle ERP** L1, L2 & L3 service requests for a client in the High Tech Security Solutions
+- Wrote **complex SQL queries** to extract custom reports from **Oracle Database** that report product portfolio related information.
+- Wrote or fixed bugs within **Oracle Stored Procedures, Triggers and Functions**.
 
-## Internships & Research
+## Internships & Research Work
 **Open Source Contributor @ Google Summer of Code - LibreHealth.io (_May 2023 - August 2023_)**
 
 [Work Product Report](https://rohanisaac.blogspot.com/2023/08/google-summer-of-code-2023-ai-model.html)
 
-- Developed multiple state of the art **computer vision models using PyTorch** and integrated to an open source Radiology AI application for medical imaging diagnosis tasks such as **multilabel classification, bounding box and image segmentation** tasks. Estimated to reduce time taken to diagnose by 30%
-- Automated AI model selection by constructing modules with **Python Flask** and **Java Spring Boot**, reducing application setup configuration time by 40%
+- Integrated state of the art **computer vision models** to LibreHealth’s Radiology AI application for medical imaging diagnosis tasks such as **multilabel classification and object localization through GradCam**. Estimated to reduce time taken to diagnose by 20%
+- Automated the AI model selection for LibreHealth’s radiology application by interacting with the image’s DICOM properties using modules constructed with **Python Flask and Java Spring Boot**, cutting down application configuration time completely.
 
 **Research Assistant @ Health Informatics Lab (_September 2022 - Present_)**
 
 [Repo](https://github.com/rogyizac/MD.ai)
 
-- Collaborated with medical researchers to implement and integrate multiple top ranked kaggle **computer vision** models to a Radiology platform (MD.ai) using **PyTorch** and **Docker**, reducing time taken to deploy by more than 50% as part of a research study conducted to understand Radiologists synergy with AI models
+- Led an NSF research study to analyze AI-Radiologist synergy through which integrated leading Kaggle **computer vision models** with MD.ai, an FDA approved Radiology AI platform. Included models for **classification, segmentation, and object localization**.
+- The study identified improved AI-radiologist collaboration, leading to a 20% reduction in diagnostic times.
+- Paper published and to be presented at ISBI 2024 conference. 1st Author
+
+[Project](https://librehealth.io/projects/lh-radiology/)
+- Assisted in research, analysis and writing a research paper on open source Radiology application integrated with embedded AI system architecture and contributed in development of the application.
+- Paper published and presented at AIME 2023 conference. 1st Author
 
 ## Publications
 1. [Saptarshi Purkayastha, Rohan Isaac, Sharon Anthony, Shikhar Shukla, Elizabeth A. Krupinski, Joshua A. Danish, Judy W. Gichoya. A general-purpose AI assistant embedded in an open-source radiology information system.](https://doi.org/10.48550/arXiv.2303.10338)
+2. Measuring Impact of Radiologist-AI Collaboration: Efficiency, Accuracy, and Clinical Impact – 1st Author, ISBI 2024 Conference (Accepted, Yet to publish)
 
 ## Projects
+
+### Forecasting Consumer Credit Card Balances for Large Banks: A Time Series Analysis
+Repo
+
+The research explores the quarterly trends of consumer credit card balances for large banks and aims to forecast future balances using advanced time series methods. Insights from this study can help banks in strategic decision-making, risk assessment, and resource allocation. Applied simple to complex time series forecasting techniques and analysis of the model outputs.
 
 ### NHANES Informatics Project
 [Repo](https://github.com/rogyizac/NHANES_informatics_project)
