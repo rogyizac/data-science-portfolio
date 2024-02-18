@@ -2,7 +2,7 @@
 
 **Language Skills:** Python, SQL, PySpark, SparkSQL, R, Java
 
-**Data Science Skills:** Time Series Forecasting, Supervised ML, Unsupervised ML (Clustering, PCA), Deep Learning, Natural Language Processing Methods, Large Language Models - (Prompt Engineering, LangChain)
+**Data Science Skills:** Time Series Forecasting, Supervised ML, Unsupervised ML (Clustering, PCA), Deep Learning, Natural Language Processing Methods, Large Language Models - (Prompt Engineering, LangChain), Computer Vision
 
 **Frameworks & Tools:** Sklearn, PyTorch, Tensorflow, PySpark, LangChain, Numpy, Pandas, PowerBI, Linux, Git, Docker, Relational Database, Data Warehousing, Databricks
 
@@ -12,9 +12,8 @@
 - B.E., Mechanical | Anna University Chennai, India (_June 2016_)
 
 ## Professional Experience
-**Data Scientist Senior @ Accenture AI (_April 2021 - June 2022_)**
-- Accomplished a 10-15% improvement from existing demand forecast accuracy for a CPG client by using a **Transformers net-based package for forecasting** and integrated them into the client’s **Azure Databricks Data Science workflow**.
-- Developed and integrated metrics to track forecast accuracy, demand, supply, and low inventory levels at various channels.
+**Data Scientist Specialist @ Accenture AI (_April 2021 - June 2022_)**
+- Improved a CPG client's **demand forecast** accuracy by **10-15%** by using a **Transformers net**-based package integrated to **Azure Databricks Data Science** workflow. Built tracking of forecast accuracy, demand, supply, and inventory levels and custom metrics.
 - Enhanced supply chain visibility through the design and development of manufacturing output metrics using **Power BI dashboards and Azure data pipelines** by bringing manufacturing data together. Leveraged **Databricks (PySpark, SparkSQL), DataFactory, Synapse, and Tabular models** for data processing and storage.
 
 **Senior Analytics Consultant @ Accenture AI (_April 2020 - March 2021_)**
@@ -31,8 +30,12 @@
 - Wrote or fixed bugs within **Oracle Stored Procedures, Triggers and Functions**.
 
 ## Internships & Research Work
-**Open Source Contributor @ Google Summer of Code - LibreHealth.io (_May 2023 - August 2023_)**
+**Machine Learning Engineer Intern @ ClearObject (_January 2024 - Present_)**
 
+- Integrated computer vision systems in manufacturing quality control and monitoring, involving data collection, labeling, and model fine-tuning using **PyTorch and TensorFlow**, focusing on **segmentation (U-net), detection (YOLO), and classification models**
+- Deployed refined models on edge devices and implemented in real-time client applications using **NVIDIA’s TensorRT & DeepStream** to enhance operational efficiency
+
+**Open Source Contributor @ Google Inc. – LibreHealth for Google Summer of Code (_May 2023 - August 2023_)**
 [Work Product Report](https://rohanisaac.blogspot.com/2023/08/google-summer-of-code-2023-ai-model.html)
 
 - Integrated state of the art **computer vision models** to LibreHealth’s Radiology AI application for medical imaging diagnosis tasks such as **multilabel classification and object localization through GradCam**. Estimated to reduce time taken to diagnose by 20%
@@ -45,6 +48,8 @@
 - Led an NSF research study to analyze AI-Radiologist synergy through which integrated leading Kaggle **computer vision models** with MD.ai, an FDA approved Radiology AI platform. Included models for **classification, segmentation, and object localization**.
 - The study identified improved AI-radiologist collaboration, leading to a 20% reduction in diagnostic times.
 - Paper published and to be presented at ISBI 2024 conference. 1st Author
+- Implemented an LLM-based system with Pinecone for automating clinical tasks, enhancing treatment by analyzing medical textual
+data, and improving patient care outcomes through Retrieval Augmented Generation (RAG) and Semantic Search.
 
 [Project](https://librehealth.io/projects/lh-radiology/)
 - Assisted in research, analysis and writing a research paper on open source Radiology application integrated with embedded AI system architecture and contributed in development of the application.
