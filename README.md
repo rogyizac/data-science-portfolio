@@ -16,7 +16,7 @@
 - Improved a CPG client's **demand forecast** accuracy by **10-15%** by using a **Transformers net**-based package integrated to **Azure Databricks Data Science** workflow. Built tracking of forecast accuracy, demand, supply, and inventory levels and custom metrics.
 - Enhanced supply chain visibility through the design and development of manufacturing output metrics using **Power BI dashboards and Azure data pipelines** by bringing manufacturing data together. Leveraged **Databricks (PySpark, SparkSQL), DataFactory, Synapse, and Tabular models** for data processing and storage.
 
-**Senior Analytics Consultant @ Accenture AI (_April 2020 - March 2021_)**
+**Data Scientist @ Accenture AI (_April 2020 - March 2021_)**
 - Fine-tuned and integrated **tree-based** and **time series algorithms** for demand forecasting for a Home Appliances client in collaboration with cross-functional teams on **Google Cloud**. Enhanced accuracy by 5% over demand planner levels.
 - Developed, integrated and scheduled **complex BigQuery SQL queries** through **Informatica ETL** pipelines that extract and combine from various large data lakes and builds data marts.
 
