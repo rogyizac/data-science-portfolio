@@ -48,8 +48,7 @@
 - Led an NSF research study to analyze AI-Radiologist synergy through which integrated leading Kaggle **computer vision models** with MD.ai, an FDA approved Radiology AI platform. Included models for **classification, segmentation, and object localization**.
 - The study identified improved AI-radiologist collaboration, leading to a 20% reduction in diagnostic times.
 - Paper published and to be presented at ISBI 2024 conference. 1st Author
-- Implemented an LLM-based system with Pinecone for automating clinical tasks, enhancing treatment by analyzing medical textual
-data, and improving patient care outcomes through Retrieval Augmented Generation (RAG) and Semantic Search.
+- Implemented a Retrieval Augmented Generation (RAG) based system using ChromaDB and Llama LLM model on clinical discharge notes MIMIC data to improve patient diagnosis outcomes through Semantic Search and Summarization tasks
 
 [Project](https://librehealth.io/projects/lh-radiology/)
 - Assisted in research, analysis and writing a research paper on open source Radiology application integrated with embedded AI system architecture and contributed in development of the application.
