@@ -49,6 +49,7 @@
 - The study identified improved AI-radiologist collaboration, leading to a 20% reduction in diagnostic times.
 - Paper published and to be presented at ISBI 2024 conference. 1st Author
 - Implemented a Retrieval Augmented Generation (RAG) based system using ChromaDB and Llama LLM model on clinical discharge notes MIMIC data to improve patient diagnosis outcomes through Semantic Search and Summarization tasks
+- Implemented a Retrieval Augmented Generation (RAG) based system using Neo4j Graph DB, Llamafile and Mistral 7B on clinical EHR relational data that generate cypher queries to improve search and patient outcomes through Semantic Search and Summarization tasks.
 
 [Project](https://librehealth.io/projects/lh-radiology/)
 - Assisted in research, analysis and writing a research paper on open source Radiology application integrated with embedded AI system architecture and contributed in development of the application.
@@ -61,7 +62,7 @@
 ## Projects
 
 ### Forecasting Consumer Credit Card Balances for Large Banks: A Time Series Analysis
-Repo
+[Repo](https://github.com/rogyizac/projects/tree/main/ForecastingConsumerCreditBalances)
 
 The research explores the quarterly trends of consumer credit card balances for large banks and aims to forecast future balances using advanced time series methods. Insights from this study can help banks in strategic decision-making, risk assessment, and resource allocation. Applied simple to complex time series forecasting techniques and analysis of the model outputs.
 
