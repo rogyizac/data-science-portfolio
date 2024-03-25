@@ -19,7 +19,6 @@
 **Data Scientist @ Accenture AI (_April 2020 - March 2021_)**
 - Boosted **demand forecasting** accuracy by 5% for a Home Appliances client by deploying an **ensemble of tree-based algorithms** on **Google Cloud Platform Cloud Run** Service as **Docker Containers**, with **FastAPI** facilitating **real-time model inference**. 
 - Utilized **GCP Airflow** for **workflow orchestration** and established a **feature store** to manage features on promotions, pricing, and seasonality. **Scheduled** complex **SQL queries** to run on **Google BigQuery** to process data from data lakes and loads to data marts.
-Consumer Product Goods Client
 
 **Analytics Consultant @ Accenture AI (_April 2019 - March 2020_)**
 - Developed and implemented a sourcing optimization solution, utilizing analytics and **NLP text similarity matching**, boosting production efficiency by 20% for a key CPG client amid capacity challenges.
