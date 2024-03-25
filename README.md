@@ -12,13 +12,14 @@
 - B.E., Mechanical | Anna University Chennai, India (_June 2016_)
 
 ## Professional Experience
-**Data Scientist Specialist @ Accenture AI (_April 2021 - June 2022_)**
-- Improved a CPG client's **demand forecast** accuracy by **10-15%** by using a **Transformers net**-based package integrated to **Azure Databricks Data Science** workflow. Built tracking of forecast accuracy, demand, supply, and inventory levels and custom metrics.
-- Enhanced supply chain visibility through the design and development of manufacturing output metrics using **Power BI dashboards and Azure data pipelines** by bringing manufacturing data together. Leveraged **Databricks (PySpark, SparkSQL), DataFactory, Synapse, and Tabular models** for data processing and storage.
+**Data Scientist Specialist / Machine Learning Engineer @ Accenture AI (_April 2021 - June 2022_)**
+- Improved a CPG client's **demand forecast** accuracy by **10-15%** by using a **Transformers net**-based package integrated to **Azure Databricks Data Science** workflow. Built tracking of forecast accuracy, demand, supply, and inventory levels and custom metrics. Utilized **MLflow** to **track experiments**, log metrics, and compare runs for optimal model performance.
+- Enhanced **supply chain visibility** through the design and development of **manufacturing output metrics** using **Power BI** dashboards and **Azure data pipelines** by bringing manufacturing data together. Leveraged **Databricks (PySpark, SparkSQL), DataFactory for orchestration, Synapse, and Tabular models** for data processing and storage.
 
 **Data Scientist @ Accenture AI (_April 2020 - March 2021_)**
-- Fine-tuned and integrated **tree-based** and **time series algorithms** for demand forecasting for a Home Appliances client in collaboration with cross-functional teams on **Google Cloud**. Enhanced accuracy by 5% over demand planner levels.
-- Developed, integrated and scheduled **complex BigQuery SQL queries** through **Informatica ETL** pipelines that extract and combine from various large data lakes and builds data marts.
+- Boosted **demand forecasting** accuracy by 5% for a Home Appliances client by deploying an **ensemble of tree-based algorithms** on **Google Cloud Platform Cloud Run** Service as **Docker Containers**, with **FastAPI** facilitating **real-time model inference**. 
+- Utilized **GCP Airflow** for **workflow orchestration** and established a **feature store** to manage features on promotions, pricing, and seasonality. **Scheduled** complex **SQL queries** to run on **Google BigQuery** to process data from data lakes and loads to data marts.
+Consumer Product Goods Client
 
 **Analytics Consultant @ Accenture AI (_April 2019 - March 2020_)**
 - Developed and implemented a sourcing optimization solution, utilizing analytics and **NLP text similarity matching**, boosting production efficiency by 20% for a key CPG client amid capacity challenges.
@@ -40,6 +41,7 @@
 
 - Integrated state of the art **computer vision models** to LibreHealth’s Radiology AI application for medical imaging diagnosis tasks such as **multilabel classification and object localization through GradCam**. Estimated to reduce time taken to diagnose by 20%
 - Automated the AI model selection for LibreHealth’s radiology application by interacting with the image’s DICOM properties using modules constructed with **Python Flask and Java Spring Boot**, cutting down application configuration time completely.
+- Modified **Flask API** endpoints, codebase structure for ease of integrating additional AI models through configuration file settings
 
 **Research Assistant @ Health Informatics Lab (_September 2022 - Present_)**
 
@@ -48,8 +50,8 @@
 - Led an NSF research study to analyze AI-Radiologist synergy through which integrated leading Kaggle **computer vision models** with MD.ai, an FDA approved Radiology AI platform. Included models for **classification, segmentation, and object localization**.
 - The study identified improved AI-radiologist collaboration, leading to a 20% reduction in diagnostic times.
 - Paper published and to be presented at ISBI 2024 conference. 1st Author
-- Implemented a Retrieval Augmented Generation (RAG) based system using ChromaDB and Llama LLM model on clinical discharge notes MIMIC data to improve patient diagnosis outcomes through Semantic Search and Summarization tasks
-- Implemented a Retrieval Augmented Generation (RAG) based system using Neo4j Graph DB, Llamafile and Mistral 7B on clinical EHR relational data that generate cypher queries to improve search and patient outcomes through Semantic Search and Summarization tasks.
+- Implemented a **Retrieval Augmented Generation (RAG)** based system using **ChromaDB** and **Llama LLM** model on clinical discharge notes MIMIC data to improve patient diagnosis outcomes through Semantic Search and Summarization tasks
+- Implemented a **Retrieval Augmented Generation (RAG)** based system using **Neo4j Graph DB, Llamafile and Mistral 7B** on clinical **EHR** relational data that generate **cypher queries** to improve search and patient outcomes through **Semantic Search and Summarization tasks**.
 
 [Project](https://librehealth.io/projects/lh-radiology/)
 - Assisted in research, analysis and writing a research paper on open source Radiology application integrated with embedded AI system architecture and contributed in development of the application.
