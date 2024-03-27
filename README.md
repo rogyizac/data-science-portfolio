@@ -13,44 +13,44 @@
 
 ## Professional Experience
 **Data Scientist Specialist / Machine Learning Engineer @ Accenture AI (_April 2021 - June 2022_)**
-- Improved a CPG client's **demand forecast** accuracy by **10-15%** by using a **Transformers net**-based package integrated to **Azure Databricks Data Science** workflow. Built tracking of forecast accuracy, demand, supply, and inventory levels and custom metrics. Utilized **MLflow** to **track experiments**, log metrics, and compare runs for optimal model performance.
-- Enhanced **supply chain visibility** through the design and development of **manufacturing output metrics** using **Power BI** dashboards and **Azure data pipelines** by bringing manufacturing data together. Leveraged **Databricks (PySpark, SparkSQL), DataFactory for orchestration, Synapse, and Tabular models** for data processing and storage.
+- Improved a CPG client's **demand forecast** accuracy by 10-15% by using a Transformers net-based package integrated to **Azure Databricks Data Science** workflow. Built tracking of forecast accuracy, demand, supply, and inventory levels and custom metrics. Utilized MLflow to **track experiments**, log metrics, and compare runs for optimal model performance.
+- Enhanced supply chain visibility through the design and development of manufacturing output metrics using **Power BI** dashboards and **Azure data pipelines** by bringing manufacturing data together. Leveraged Databricks (PySpark, SparkSQL), DataFactory for orchestration, Synapse, and Tabular models for data processing and storage.
 
 **Data Scientist @ Accenture AI (_April 2020 - March 2021_)**
-- Boosted **demand forecasting** accuracy by 5% for a Home Appliances client by deploying an **ensemble of tree-based algorithms** on **Google Cloud Platform Cloud Run** Service as **Docker Containers**, with **FastAPI** facilitating **real-time model inference**. 
-- Utilized **GCP Airflow** for **workflow orchestration** and established a **feature store** to manage features on promotions, pricing, and seasonality. **Scheduled** complex **SQL queries** to run on **Google BigQuery** to process data from data lakes and loads to data marts.
+- Boosted **demand forecasting** accuracy by 5% for a Home Appliances client by deploying an **ensemble** of tree-based algorithms on Google Cloud Platform Cloud Run Service as Docker Containers, with FastAPI facilitating **real-time model inference**. 
+- Utilized GCP Airflow for **workflow orchestration** and established a **feature store** to manage features on promotions, pricing, and seasonality. Scheduled complex SQL queries to run on Google BigQuery to process data from data lakes and loads to data marts.
 
 **Analytics Consultant @ Accenture AI (_April 2019 - March 2020_)**
-- Developed and implemented a sourcing optimization solution, utilizing analytics and **NLP text similarity matching**, boosting production efficiency by 20% for a key CPG client amid capacity challenges.
-- For a Home Appliances Client, developed, and integrated large scale data preprocessing scripts using **sparkSQL, PySpark and Pandas** on Azure that pulls sales order data and ML demand forecast data from data warehouse to build a **supply forecasting solution**.
+- Developed and implemented a sourcing **optimization solution**, utilizing analytics and NLP text similarity matching, boosting production efficiency by 20% for a key CPG client amid capacity challenges.
+- For a Home Appliances Client, developed, and integrated **large scale data preprocessing** scripts using sparkSQL, PySpark and Pandas on Azure that pulls sales order data and ML demand forecast data from data warehouse to build a supply forecasting solution.
 
 **Assistant Systems Engineer @ Accenture AI (_October 2016 - June 2018_)**
 - Resolved technical **Oracle ERP** L1, L2 & L3 service requests for a client in the High Tech Security Solutions
-- Wrote **complex SQL queries** to extract custom reports from **Oracle Database** that report product portfolio related information.
+- Wrote complex SQL queries to extract custom reports from Oracle Database that report product portfolio related information.
 - Wrote or fixed bugs within **Oracle Stored Procedures, Triggers and Functions**.
 
 ## Internships & Research Work
 **Machine Learning Engineer Intern @ ClearObject (_January 2024 - Present_)**
 
-- Integrated computer vision systems in manufacturing quality control and monitoring, involving data collection, labeling, and model fine-tuning using **PyTorch and TensorFlow**, focusing on **segmentation (U-net), detection (YOLO), and classification models**
-- Deployed refined models on edge devices and implemented in real-time client applications using **NVIDIA’s TensorRT & DeepStream** to enhance operational efficiency
+- Integrated **computer vision systems** in manufacturing quality control and monitoring, involving data collection, labeling, and model fine-tuning using PyTorch and TensorFlow, focusing on **segmentation (U-net), detection (YOLO)**, and classification models
+- Deployed refined models on edge devices and implemented in real-time client applications using NVIDIA’s TensorRT & DeepStream to enhance operational efficiency
 
 **Open Source Contributor @ Google Inc. – LibreHealth for Google Summer of Code (_May 2023 - August 2023_)**
 [Work Product Report](https://rohanisaac.blogspot.com/2023/08/google-summer-of-code-2023-ai-model.html)
 
-- Integrated state of the art **computer vision models** to LibreHealth’s Radiology AI application for medical imaging diagnosis tasks such as **multilabel classification and object localization through GradCam**. Estimated to reduce time taken to diagnose by 20%
-- Automated the AI model selection for LibreHealth’s radiology application by interacting with the image’s DICOM properties using modules constructed with **Python Flask and Java Spring Boot**, cutting down application configuration time completely.
+- Integrated state of the art **computer vision models** to LibreHealth’s **Radiology AI application** for medical imaging diagnosis tasks such as multilabel classification and object localization through GradCam. Estimated to reduce time taken to diagnose by 20%
+- Automated the **AI model selection** for LibreHealth’s radiology application by interacting with the image’s DICOM properties using modules constructed with Python Flask and Java Spring Boot, cutting down application configuration time completely.
 - Modified **Flask API** endpoints, codebase structure for ease of integrating additional AI models through configuration file settings
 
 **Research Assistant @ Health Informatics Lab (_September 2022 - Present_)**
 
 [Repo](https://github.com/rogyizac/MD.ai)
 
-- Led an NSF research study to analyze AI-Radiologist synergy through which integrated leading Kaggle **computer vision models** with MD.ai, an FDA approved Radiology AI platform. Included models for **classification, segmentation, and object localization**.
+- Led an NSF research study to analyze AI-Radiologist synergy through which integrated leading Kaggle **computer vision models** with MD.ai, an FDA approved Radiology AI platform. Included models for classification, segmentation, and object localization.
 - The study identified improved AI-radiologist collaboration, leading to a 20% reduction in diagnostic times.
 - Paper published and to be presented at ISBI 2024 conference. 1st Author
-- Implemented a **Retrieval Augmented Generation (RAG)** based system using **ChromaDB** and **Llama LLM** model on clinical discharge notes MIMIC data to improve patient diagnosis outcomes through Semantic Search and Summarization tasks
-- Implemented a **Retrieval Augmented Generation (RAG)** based system using **Neo4j Graph DB, Llamafile and Mistral 7B** on clinical **EHR** relational data that generate **cypher queries** to improve search and patient outcomes through **Semantic Search and Summarization tasks**.
+- Implemented a **Retrieval Augmented Generation (RAG)** based system using ChromaDB and Llama LLM model on clinical discharge notes MIMIC data to improve patient diagnosis outcomes through Semantic Search and Summarization tasks
+- Implemented a **Retrieval Augmented Generation (RAG)** based system using Neo4j Graph DB, Llamafile and Mistral 7B on clinical **EHR** relational data that generate cypher queries to improve search and patient outcomes through **Semantic Search and Summarization tasks**.
 
 [Project](https://librehealth.io/projects/lh-radiology/)
 - Assisted in research, analysis and writing a research paper on open source Radiology application integrated with embedded AI system architecture and contributed in development of the application.
@@ -59,6 +59,11 @@
 ## Publications
 1. [Saptarshi Purkayastha, Rohan Isaac, Sharon Anthony, Shikhar Shukla, Elizabeth A. Krupinski, Joshua A. Danish, Judy W. Gichoya. A general-purpose AI assistant embedded in an open-source radiology information system.](https://doi.org/10.48550/arXiv.2303.10338)
 2. Measuring Impact of Radiologist-AI Collaboration: Efficiency, Accuracy, and Clinical Impact – 1st Author, ISBI 2024 Conference (Accepted, Yet to publish)
+
+## Master's Thesis
+**Thesis Title:** A Multi-modal Medical Anomaly Detector Based on Cascade Variational Autoencoder and BERT - [Repo](https://github.com/rogyizac/CVAD)
+- An existing Cascade **Variational Auto Encoder** model that detects out-of-distribution medical images from in-distribution ones in a self-supervised way is extended by integrating a **BERT model** to embed medical image related reports, and fusing the latent representations of the image and the report by adapting an **Early Fusion network** that can distinguish the medical report of an in-distribution medical image from the out-of-distribution image in a self-supervised manner.
+- Applied this advanced model to MIMIC-CXR and COCO captions data, showcasing its adaptability and generalization strength.
 
 ## Projects
 
