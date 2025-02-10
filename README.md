@@ -1,15 +1,21 @@
 # Data Scientist
 
+* * *
+
 **Language Skills:** Python, SQL, PySpark, SparkSQL, R, Java
 
 **Data Science Skills:** Time Series Forecasting, Supervised ML, Unsupervised ML (Clustering, PCA), Deep Learning, Natural Language Processing Methods, Large Language Models - (Prompt Engineering, LangChain), Computer Vision
 
 **Frameworks & Tools:** Sklearn, PyTorch, Tensorflow, PySpark, LangChain, Numpy, Pandas, PowerBI, Linux, Git, Docker, Relational Database, Data Warehousing, Databricks
 
+* * *
+
 ## Education
 - M.S., Applied Data Science	| Indiana University Indianapolis, USA (_May 2024_)
 - PGP in Data Science | Praxis Business School Bengaluru, India (_March 2019_)
 - B.E., Mechanical | Anna University Chennai, India (_June 2016_)
+
+* * *
 
 ## Professional Experience
 **Data Scientist @ Emory University Hospital (_July 2024 - Present_)**
@@ -34,6 +40,8 @@
 - Resolved technical **Oracle ERP** L1, L2 & L3 service requests for a client in the High Tech Security Solutions
 - Wrote complex SQL queries to extract custom reports from Oracle Database that report product portfolio related information.
 - Wrote or fixed bugs within **Oracle Stored Procedures, Triggers and Functions**.
+
+* * *
 
 ## Internships & Research Work
 **Machine Learning Engineer Intern @ ClearObject (_January 2024 - April 2024_)**
@@ -62,14 +70,20 @@
 - Assisted in research, analysis and writing a research paper on open source Radiology application integrated with embedded AI system architecture and contributed in development of the application.
 - Paper published and presented at AIME 2023 conference. 1st Author
 
+* * *
+
 ## Publications
 1. [Saptarshi Purkayastha, Rohan Isaac, Sharon Anthony, Shikhar Shukla, Elizabeth A. Krupinski, Joshua A. Danish, Judy W. Gichoya. A general-purpose AI assistant embedded in an open-source radiology information system.](https://doi.org/10.48550/arXiv.2303.10338)
 2. Measuring Impact of Radiologist-AI Collaboration: Efficiency, Accuracy, and Clinical Impact – 1st Author, ISBI 2024 Conference (Accepted, Yet to publish)
+
+* * *
 
 ## Master's Thesis
 **Thesis Title:** A Multi-modal Medical Anomaly Detector Based on Cascade Variational Autoencoder and BERT - [Repo](https://github.com/rogyizac/CVAD)
 - An existing Cascade **Variational Auto Encoder** model that detects out-of-distribution medical images from in-distribution ones in a self-supervised way is extended by integrating a **BERT model** to embed medical image related reports, and fusing the latent representations of the image and the report by adapting an **Early Fusion network** that can distinguish the medical report of an in-distribution medical image from the out-of-distribution image in a self-supervised manner.
 - Applied this advanced model to MIMIC-CXR and COCO captions data, showcasing its adaptability and generalization strength.
+
+* * *
 
 ## Projects
 
