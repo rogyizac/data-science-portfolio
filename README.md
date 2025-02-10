@@ -12,6 +12,12 @@
 - B.E., Mechanical | Anna University Chennai, India (_June 2016_)
 
 ## Professional Experience
+**Data Scientist @ Emory University Hospital (_July 2024 - Present_)**
+- Collaborated with a client to **evaluate a commercially deployed 3D DBT breast AI screening model** using internal datasets, analyzing performance across outcomes, demographics, imaging characteristics and statistical evaluations of the same; results to be presented at RSNA’25. 
+- Built a pipeline to preprocess **breast MRI data** for machine learning applications. Pipeline consists of data alignment of MRI exams from varied manufacturers, MRI sequence selection, slice registration and subtraction (Pre and Post Contrast slices), slice selection methods, transformations and save as tensor dataset for applicable machine learning applications. Cut down data preprocessing effort by 80%.
+- Built a pipeline to update existing **large scale breast imaging dataset** of 2D, 3D DBT X-rays with additional modalities (Ultrasound and MRI). Enriched additional metadata such as risk scores, state registry data, reports, pathology information, addendums, feature characteristics. Increased total exams by 230%.
+- Implemented structured **data extraction and de-identification** of in-house medical imaging reports using locally deployed **large language models (LLMs) (LLaMA 3.1)**. Conducted extensive experimentation with various **prompt engineering** techniques to optimize accuracy, and generalization.
+
 **Data Scientist Specialist / Machine Learning Engineer @ Accenture AI (_April 2021 - June 2022_)**
 - Improved a CPG client's **demand forecast** accuracy by 10-15% by using a Transformers net-based package integrated to **Azure Databricks Data Science** workflow. Built tracking of forecast accuracy, demand, supply, and inventory levels and custom metrics. Utilized MLflow to **track experiments**, log metrics, and compare runs for optimal model performance.
 - Enhanced supply chain visibility through the design and development of manufacturing output metrics using **Power BI** dashboards and **Azure data pipelines** by bringing manufacturing data together. Leveraged Databricks (PySpark, SparkSQL), DataFactory for orchestration, Synapse, and Tabular models for data processing and storage.
@@ -30,7 +36,7 @@
 - Wrote or fixed bugs within **Oracle Stored Procedures, Triggers and Functions**.
 
 ## Internships & Research Work
-**Machine Learning Engineer Intern @ ClearObject (_January 2024 - Present_)**
+**Machine Learning Engineer Intern @ ClearObject (_January 2024 - April 2024_)**
 
 - Integrated **computer vision systems** in manufacturing quality control and monitoring, involving data collection, labeling, and model fine-tuning using PyTorch and TensorFlow, focusing on **segmentation (U-net), detection (YOLO)**, and classification models
 - Deployed refined models on edge devices and implemented in real-time client applications using NVIDIA’s TensorRT & DeepStream to enhance operational efficiency
@@ -42,7 +48,7 @@
 - Automated the **AI model selection** for LibreHealth’s radiology application by interacting with the image’s DICOM properties using modules constructed with Python Flask and Java Spring Boot, cutting down application configuration time completely.
 - Modified **Flask API** endpoints, codebase structure for ease of integrating additional AI models through configuration file settings
 
-**Research Assistant @ Health Informatics Lab (_September 2022 - Present_)**
+**Research Assistant @ Health Informatics Lab (_September 2022 - April 2024_)**
 
 [Repo](https://github.com/rogyizac/MD.ai)
 
