@@ -18,45 +18,57 @@
 * * *
 
 ## Professional Experience
-**Data Scientist @ Emory University Hospital (_July 2024 - Present_)**
-- Collaborated with a client to **evaluate a commercially deployed 3D DBT breast AI screening model** using internal datasets, analyzing performance across outcomes, demographics, imaging characteristics and statistical evaluations of the same; results to be presented at RSNA’25. 
-- Built a pipeline to preprocess **breast MRI data** for machine learning applications. Pipeline consists of data alignment of MRI exams from varied manufacturers, MRI sequence selection, slice registration and subtraction (Pre and Post Contrast slices), slice selection methods, transformations and save as tensor dataset for applicable machine learning applications. Cut down data preprocessing effort by 80%.
-- Built a pipeline to update existing **large scale breast imaging dataset** of 2D, 3D DBT X-rays with additional modalities (Ultrasound and MRI). Enriched additional metadata such as risk scores, state registry data, reports, pathology information, addendums, feature characteristics. Increased total exams by 230%.
-- Implemented structured **data extraction and de-identification** of in-house medical imaging reports using locally deployed **large language models (LLMs) (LLaMA 3.1)**. Conducted extensive experimentation with various **prompt engineering** techniques to optimize accuracy, and generalization.
+### Emory University Hospital
+**Data Scientist  (_July 2024 - Present_)**
+- Collaborated with a partner to evaluate a commercially deployed 3D DBT breast AI screening model using internal breast imaging dataset, analyzing performance across outcomes, demographics, and imaging characteristics, along with statistical evaluations; results to be presented at RSNA 2025.
+- Built a pipeline to store and update a **large scale breast imaging dataset** of 2D, 3D DBT X-rays with imaging and text data. Preprocessed and included additional modalities (Ultrasound and MRI). Data extraction, de-identification and storage management of imaging data and clinilal structured and unstructured data including DICOM metadata. Enriched existing metadata additional metadata such as risk scores, state registry data, clinical and pathology reports, exam addendums. Increased total exams by 230%.
+- Designed and built a preprocessing pipeline for breast MRI data in machine learning applications, standardizing MRI exams across different manufacturers. Implemented sequence selection, slice registration and subtraction (pre- and post-contrast), slice selection methods, and transformations, converting data into tensor format for ML use. Reduced data preprocessing effort by 80%.
 
-**Data Scientist Specialist / Machine Learning Engineer @ Accenture AI (_April 2021 - June 2022_)**
+
+### Accenture
+**Data Scientist Specialist / Machine Learning Engineer                        (_April 2021 - June 2022_)**
 - Improved a CPG client's **demand forecast** accuracy by 10-15% by using a Transformers net-based package integrated to **Azure Databricks Data Science** workflow. Built tracking of forecast accuracy, demand, supply, and inventory levels and custom metrics. Utilized MLflow to **track experiments**, log metrics, and compare runs for optimal model performance.
 - Enhanced supply chain visibility through the design and development of manufacturing output metrics using **Power BI** dashboards and **Azure data pipelines** by bringing manufacturing data together. Leveraged Databricks (PySpark, SparkSQL), DataFactory for orchestration, Synapse, and Tabular models for data processing and storage.
 
-**Data Scientist @ Accenture AI (_April 2020 - March 2021_)**
+**Data Scientist (_April 2020 - March 2021_)**
 - Boosted **demand forecasting** accuracy by 5% for a Home Appliances client by deploying an **ensemble** of tree-based algorithms on Google Cloud Platform Cloud Run Service as Docker Containers, with FastAPI facilitating **real-time model inference**. 
 - Utilized GCP Airflow for **workflow orchestration** and established a **feature store** to manage features on promotions, pricing, and seasonality. Scheduled complex SQL queries to run on Google BigQuery to process data from data lakes and loads to data marts.
 
-**Analytics Consultant @ Accenture AI (_April 2019 - March 2020_)**
+**Analytics Consultant (_April 2019 - March 2020_)**
 - Developed and implemented a sourcing **optimization solution**, utilizing analytics and NLP text similarity matching, boosting production efficiency by 20% for a key CPG client amid capacity challenges.
 - For a Home Appliances Client, developed, and integrated **large scale data preprocessing** scripts using sparkSQL, PySpark and Pandas on Azure that pulls sales order data and ML demand forecast data from data warehouse to build a supply forecasting solution.
 
-**Assistant Systems Engineer @ Accenture AI (_October 2016 - June 2018_)**
+
+### Tata Consultancy Services
+**Assistant Systems Engineer(_October 2016 - June 2018_)**
 - Resolved technical **Oracle ERP** L1, L2 & L3 service requests for a client in the High Tech Security Solutions
 - Wrote complex SQL queries to extract custom reports from Oracle Database that report product portfolio related information.
 - Wrote or fixed bugs within **Oracle Stored Procedures, Triggers and Functions**.
 
 * * *
 
-## Internships & Research Work
-**Machine Learning Engineer Intern @ ClearObject (_January 2024 - April 2024_)**
+## Internships
+
+### ClearObject
+**Machine Learning Engineer Intern (_January 2024 - April 2024_)**
 
 - Integrated **computer vision systems** in manufacturing quality control and monitoring, involving data collection, labeling, and model fine-tuning using PyTorch and TensorFlow, focusing on **segmentation (U-net), detection (YOLO)**, and classification models
 - Deployed refined models on edge devices and implemented in real-time client applications using NVIDIA’s TensorRT & DeepStream to enhance operational efficiency
 
-**Open Source Contributor @ Google Inc. – LibreHealth for Google Summer of Code (_May 2023 - August 2023_)**
+### Google
+**Open Source Contributor – LibreHealth for Google Summer of Code (_May 2023 - August 2023_)**
 [Work Product Report](https://rohanisaac.blogspot.com/2023/08/google-summer-of-code-2023-ai-model.html)
 
 - Integrated state of the art **computer vision models** to LibreHealth’s **Radiology AI application** for medical imaging diagnosis tasks such as multilabel classification and object localization through GradCam. Estimated to reduce time taken to diagnose by 20%
 - Automated the **AI model selection** for LibreHealth’s radiology application by interacting with the image’s DICOM properties using modules constructed with Python Flask and Java Spring Boot, cutting down application configuration time completely.
 - Modified **Flask API** endpoints, codebase structure for ease of integrating additional AI models through configuration file settings
 
-**Research Assistant @ Health Informatics Lab (_September 2022 - April 2024_)**
+* * *
+
+## Research Work
+
+### Indiana University - Health Informatics Lab
+**Research Assistant (_September 2022 - April 2024_)**
 
 [Repo](https://github.com/rogyizac/MD.ai)
 
