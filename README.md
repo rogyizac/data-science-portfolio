@@ -20,9 +20,9 @@
 ## Professional Experience
 ### Emory University Hospital
 **Data Scientist  (_July 2024 - Present_)**
-- Collaborated with a partner to evaluate a commercially deployed 3D DBT breast AI screening model using internal breast imaging dataset, analyzing performance across outcomes, demographics, and imaging characteristics, along with statistical evaluations; results to be presented at RSNA 2025.
-- Built a pipeline to store and update a **large scale breast imaging dataset** of 2D, 3D DBT X-rays with imaging and text data. Preprocessed and included additional modalities (Ultrasound and MRI). Data extraction, de-identification and storage management of imaging data and clinilal structured and unstructured data including DICOM metadata. Enriched existing metadata additional metadata such as risk scores, state registry data, clinical and pathology reports, exam addendums. Increased total exams by 230%.
-- Designed and built a preprocessing pipeline for breast MRI data in machine learning applications, standardizing MRI exams across different manufacturers. Implemented sequence selection, slice registration and subtraction (pre- and post-contrast), slice selection methods, and transformations, converting data into tensor format for ML use. Reduced data preprocessing effort by 80%.
+- Collaborated with a partner to **evaluate a commercially deployed 3D DBT breast AI screening model** using internal breast imaging dataset, analyzing performance across outcomes, demographics, and imaging characteristics, along with statistical evaluations; results to be presented at RSNA 2025.
+- Built a pipeline to store and update a **large scale breast imaging dataset** of 2D, 3D DBT X-rays with imaging and text data. Preprocessed and included additional modalities (Ultrasound and MRI). **Data extraction, de-identification and storage management** of imaging data and clinilal structured and unstructured data including DICOM metadata. Enriched existing metadata additional metadata such as risk scores, state registry data, clinical and pathology reports, exam addendums. Increased total exams by 230%.
+- Designed and built a **preprocessing pipeline for breast MRI data** for machine learning applications, standardizing MRI exams across different manufacturers. Implemented sequence selection, slice registration and subtraction (pre- and post-contrast), slice selection methods, and transformations, converting data into tensor format for ML use. Reduced data preprocessing effort by 80%.
 
 
 ### Accenture
