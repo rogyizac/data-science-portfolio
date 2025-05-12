@@ -2,26 +2,16 @@
 
 * * *
 
-**Language Skills:** Python, SQL, PySpark, SparkSQL, R, Java
-
-**Data Science Skills:** Time Series Forecasting, Supervised ML, Unsupervised ML (Clustering, PCA), Deep Learning, Natural Language Processing Methods, Large Language Models - (Prompt Engineering, LangChain), Computer Vision
-
-**Frameworks & Tools:** Sklearn, PyTorch, Tensorflow, PySpark, LangChain, Numpy, Pandas, PowerBI, Linux, Git, Docker, Relational Database, Data Warehousing, Databricks
-
-* * *
-
-## Education
-- M.S., Applied Data Science	| Indiana University Indianapolis, USA (_May 2024_)
-- PGP in Data Science | Praxis Business School Bengaluru, India (_March 2019_)
-- B.E., Mechanical | Anna University Chennai, India (_June 2016_)
+Data Science Analyst specializing in clinical informatics. Experienced in clinical data management, analyses and reporting. Proficient in building scalable data pipelines for large-scale clinical data analytics and extending to data de-identification, data validation, building and evaluating machine learning models. Adept at bridging technical expertise with clinical applications to advance AI-based diagnostic tools. Collaborates with multiple external and internal stake holders for data and analytic needs. Previous experiences in Supply Chain Analytics.
 
 * * *
 
 ## Professional Experience
 ### Emory University Hospital
-**Data Scientist  (_July 2024 - Present_)**
-- Collaborated with a partner to **evaluate a commercially deployed 3D DBT breast AI screening model** using internal breast imaging dataset, analyzing performance across outcomes, demographics, and imaging characteristics, along with statistical evaluations; results to be presented at RSNA 2025.
-- Built a pipeline to store and update a **large scale breast imaging dataset** of 2D, 3D DBT X-rays with imaging and text data. Preprocessed and included additional modalities (Ultrasound and MRI). **Data extraction, de-identification and storage management** of imaging data and clinilal structured and unstructured data including DICOM metadata. Enriched existing metadata additional metadata such as risk scores, state registry data, clinical and pathology reports, exam addendums. Increased total exams by 230%.
+**Senior Data Analyst  (_July 2024 - Present_)**
+- Built a data pipeline for a large-scale breast imaging dataset of 2D, 3D DBT mammograms and additional modalities (Ultrasound and MRI) for an overall of **more than 1 million patient exams**. Enriched additional metadata such as risk scores, state registry data, clinical (encounters, labs, meds, notes), radiology and pathology reports extracted from EPIC Clarity. Collaborate with internal and external stakeholders, for their data needs extending from big data analyses to evaluating commercial machine learning models.
+- With deep understanding of clinical patient data, built scripts for large scale extracted patient data validation, outlier analysis and anomaly detection. De-identification of patient records in accordance with HIPAA guidelines. Create visualizations and reports using Python Pandas, Matplotlib, Seaborn, hl7, Excel.
+- Collaborated with a client to evaluate a commercially deployed 3D DBT breast AI screening model using internal datasets, analyzing performance across outcomes, demographics, imaging characteristics and statistical evaluations of the same. Utilized Pandas for data transformations and Matplotlib, Seaborn, Plotly for visuals.
 - Designed and built a **preprocessing pipeline for breast MRI data** for machine learning applications, standardizing MRI exams across different manufacturers. Implemented sequence selection, slice registration and subtraction (pre- and post-contrast), slice selection methods, and transformations, converting data into tensor format for ML use. Reduced data preprocessing effort by 80%.
 
 
@@ -86,14 +76,15 @@
 
 ## Publications
 1. [Saptarshi Purkayastha, Rohan Isaac, Sharon Anthony, Shikhar Shukla, Elizabeth A. Krupinski, Joshua A. Danish, Judy W. Gichoya. A general-purpose AI assistant embedded in an open-source radiology information system.](https://doi.org/10.48550/arXiv.2303.10338)
-2. Measuring Impact of Radiologist-AI Collaboration: Efficiency, Accuracy, and Clinical Impact – 1st Author, ISBI 2024 Conference (Accepted, Yet to publish)
+2. Measuring Impact of Radiologist-AI Collaboration: Efficiency, Accuracy, and Clinical Impact – 1st Author, ISBI 2024 Conference
+3. Subgroup Performance of a Commercial Digital Breast Tomosynthesis Model for Breast Cancer Detection – 1st Author
 
 * * *
 
-## Master's Thesis
-**Thesis Title:** A Multi-modal Medical Anomaly Detector Based on Cascade Variational Autoencoder and BERT - [Repo](https://github.com/rogyizac/CVAD)
-- An existing Cascade **Variational Auto Encoder** model that detects out-of-distribution medical images from in-distribution ones in a self-supervised way is extended by integrating a **BERT model** to embed medical image related reports, and fusing the latent representations of the image and the report by adapting an **Early Fusion network** that can distinguish the medical report of an in-distribution medical image from the out-of-distribution image in a self-supervised manner.
-- Applied this advanced model to MIMIC-CXR and COCO captions data, showcasing its adaptability and generalization strength.
+## Education
+- M.S., Applied Data Science	| Indiana University Indianapolis, USA (_May 2024_)
+- PGP in Data Science | Praxis Business School Bengaluru, India (_March 2019_)
+- B.E., Mechanical | Anna University Chennai, India (_June 2016_)
 
 * * *
 
